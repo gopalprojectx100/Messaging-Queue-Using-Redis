@@ -1,0 +1,5 @@
+/backend/node_modules/
+/backend/dist/
+
+/workers/node_modules/
+/workers/dist/
